@@ -1,0 +1,3 @@
+﻿  z2.cpp
+D:\Luci\z2\z2\z2.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  z2.vcxproj -> D:\Luci\z2\Debug\z2.exe
