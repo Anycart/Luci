@@ -1,3 +1,0 @@
-﻿  трпо.cpp
-D:\Luci\трпо\трпо\трпо.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  трпо.vcxproj -> D:\Luci\трпо\Debug\трпо.exe

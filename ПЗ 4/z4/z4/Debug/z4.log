@@ -1,3 +1,0 @@
-﻿  z4.cpp
-D:\Luci\ПЗ 3\z4\z4\z4.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  z4.vcxproj -> D:\Luci\ПЗ 3\z4\Debug\z4.exe
